@@ -19,3 +19,6 @@ function whileLoop(number) {
   return "done";
 }
 
+function doWhileLoop(integer) {
+  
+}
